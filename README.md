@@ -1,4 +1,4 @@
-### Hi there! My Name is <a href="https://e2slayer.github.io/" target="_blank">Jeong Min Cho</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! My Name is <a href="https://jeongmincho.me/" target="_blank">Jeong Min Cho</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="left" alt="profile" width="300" src="https://raw.githubusercontent.com/E2Slayer/e2slayer/main/pictures/profile-pic.png?token=ACLBXCLVVOTCKLF63TCOYODBCMP2G">
 
@@ -13,7 +13,7 @@
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeong-min-cho-3a923b158/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://e2slayer.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jeongmincho.me/)
 <br/><br/><br/><br/>
 
 <img align="right" alt="CodingScreen" width="300" src="https://raw.githubusercontent.com/E2Slayer/e2slayer/main/pictures/coding.gif?token=ACLBXCMH3OT27S4XQJNEUHTBCMR72">
