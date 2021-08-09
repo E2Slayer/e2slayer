@@ -18,7 +18,7 @@
 ## 🙉 Do You Want to see my Projects? 🔍 Check out my Portfolio !
 [![GIF](https://raw.githubusercontent.com/E2Slayer/e2slayer/main/pictures/Animation.gif)](https://jeongmincho.me/)
 https://jeongmincho.me/
-<br/><br/><br/>
+<br/>
 
 <img align="right" alt="CodingScreen" width="300" src="https://raw.githubusercontent.com/E2Slayer/e2slayer/main/pictures/coding.gif?token=ACLBXCMH3OT27S4XQJNEUHTBCMR72">
 
