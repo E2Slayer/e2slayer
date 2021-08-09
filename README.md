@@ -14,11 +14,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeong-min-cho-3a923b158/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jeongmincho.me/)
-<br/><br/><br/><br/>
+<br/><br/>
+## 🙉 Do You Want to see my Projects? 🔍 Check out my Portfolio !
+[![GIF](https://raw.githubusercontent.com/E2Slayer/e2slayer/main/pictures/Animation.gif)](https://jeongmincho.me/)
+https://jeongmincho.me/
+<br/>
 
 <img align="right" alt="CodingScreen" width="300" src="https://raw.githubusercontent.com/E2Slayer/e2slayer/main/pictures/coding.gif?token=ACLBXCMH3OT27S4XQJNEUHTBCMR72">
 
-I am a Computer Science major student at George Mason University! I am pursuing my career to be a software engineer. 
+## 👋 About Me
+I am a Computer Science major student at George Mason University ! I am pursuing my career to be a software engineer. 
 
 My interests in computers and programming started when I was ten years old. Using and utilizing software was fascinating, but I was more interested in creating them, so here I am.
 
